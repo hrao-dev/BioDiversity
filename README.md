@@ -2,7 +2,7 @@
 
 An interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
-The live deployed webpage can be found here: [Bio Diversity Dashboard](https://hrao-dev/hrao-dev.github.io/plotly-challenge/index.html)
+The live deployed webpage can be found here: [Bio Diversity Dashboard](https://hrao-dev.github.io/plotly-challenge/index.html)
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
